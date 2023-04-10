@@ -23,11 +23,6 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 [View In Colab](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AutoImportPDF.ipynb)
 
----
-[Post 2008 Recession - Did tighter LTV % stem Auto price increases?]([http://example.com/](https://fred.stlouisfed.org/series/DTCTLVULNM))
-<img src="images/FinancialCrisisLTVToRisingPrices.png?raw=true"/>
-
-[Source - St. Louis Fed](https://fred.stlouisfed.org/series/DTCTLVULNM)
 
 ---
 
@@ -37,7 +32,11 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
 
-- [Project 3 Title](http://example.com/)
+- [2008 Recession - Tighter LTV % Vs Auto price Increases](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/08CrisisLTVCarPrices.ipynb) - Correlation between LTV % and Prices of New Autos negatively correlated around 08 collapse
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#)
+
+
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
