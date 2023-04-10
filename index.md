@@ -23,9 +23,9 @@ SOURCE https://fred.stlouisfed.org/series/DTCTLVULNM
 
 ---
 
-### Hypothesis
+### Small Projects
 
-- [Post 2008 Recession - Did tighter LTV % stem Auto price increases?](http://example.com/)
+- [VIN_Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
