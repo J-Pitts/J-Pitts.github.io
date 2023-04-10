@@ -16,8 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Post 2008 Recession - Did tighter LTV % stem Auto price increases?](http://example.com/)
+[Post 2008 Recession - Did tighter LTV % stem Auto price increases?]([http://example.com/](https://fred.stlouisfed.org/series/DTCTLVULNM))
 <img src="images/FinancialCrisisLTVToRisingPrices.png?raw=true"/>
+
+SOURCE https://fred.stlouisfed.org/series/DTCTLVULNM
 
 ---
 
