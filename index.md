@@ -33,7 +33,7 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 ### Small Projects
 
-- [VIN Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb) - Checks VIN With NHTS.dot.gov For Motorcycle Type
+- [VIN Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb) - Checks VIN with NHTS.dot.gov for vehicle type - Used for calculation warranty surcharges or exclusions for specific model types.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
 
