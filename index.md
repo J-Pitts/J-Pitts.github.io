@@ -26,6 +26,7 @@ SOURCE https://fred.stlouisfed.org/series/DTCTLVULNM
 ### Small Projects
 
 - [VIN_Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb)
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
 
 - [Project 2 Title](http://example.com/)
