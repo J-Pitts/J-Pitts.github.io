@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-# Loan Application Automated Import & Delete
+### Loan Application Automated Import & Delete
 
 Automates inputting loan application data into Co. front end portal when received through uncommon origination channels, such as indirect finance applications. 
 
@@ -33,13 +33,9 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 ### Small Projects
 
-- [VIN_Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb)
+- [VIN Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb) - Checks VIN With NHTS.dot.gov For Motorcycle Type
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
-
-- 
-
-
 
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
