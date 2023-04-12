@@ -32,7 +32,7 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
 
-- [2008 Recession - Tighter LTV % Vs Auto price Increases](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/08CrisisLTVCarPrices.ipynb) - Correlation between LTV % and Prices of New Autos negatively correlated around 08 collapse
+- [2008 Recession - Tighter LTV % Vs Auto price Increases](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/Copy_of_08CrisisLTVCarPrices.ipynb) - Correlation between LTV % and Prices of New Autos negatively correlated around 08 collapse
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#)
 
