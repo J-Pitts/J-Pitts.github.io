@@ -21,7 +21,7 @@ This project saves 3 minutes per document. I wrap the file in a batch file to ru
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
 
-[View In Colab](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AutoImportPDF.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AutoImportPDF.ipynb)
 
 
 ---
