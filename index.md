@@ -12,12 +12,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+## Automation & Scripting
+
 ### Loan Application Automated Import & Delete
 
-Automates inputting loan application data into Co. front end portal when received through uncommon origination channels, such as indirect finance applications. 
-
-This program completes the task of checking a shared folder for a pdf application using the os module, reading and assigning the data to variables using pdfminer, inputting the data to the company portal using selenium, and deleting the file from the shared folder using os again. 
-This project saves 3 minutes per document. I wrap the file in a batch file to run on PC startup in the morning.
+This program completes the 4 part task:
+ 1. Checks a shared folder for a pdf application using the os module
+ 2. Reads and assigns the data to variables using pdfminer
+ 3. Inputs the data to the company portal using selenium
+ 4. Cleans up by deleting the file from the shared folder using os again.
+ 
+This program saves 3 minutes per document. I wrapped it into a batch file to run on PC startup in the morning.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
 
