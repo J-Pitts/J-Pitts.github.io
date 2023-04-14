@@ -5,7 +5,8 @@
 ## Data Analysis / Machine Learning
 
 [Adult Income Prediction Machine Learning](https://J-Pitts.github.io)
-Basic machine learning on the adult income public dataset - Correlation Matrix And Logistric Regression Confusion Matrix
+Correlation Matrix And Logistric Regression Confusion Matrix
+
 <img src="images/CorrelationMatrix.png?" width="300" height="250"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="300" height="250"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
@@ -13,7 +14,7 @@ Basic machine learning on the adult income public dataset - Correlation Matrix A
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AdultIncomePrediction.ipynb)
 
 [Titanic Dataset Machine Learning](https://J-Pitts.github.io)
-Basic machine learning on the titanic public dataset - Distrubitions and Zscore tuning
+Distrubitions and Zscore tuning
 <img src="images/FareDistribution.png?" width="300" height="250"/> <img src="images/FareZScore.png?" width="300" height="250"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
