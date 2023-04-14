@@ -2,14 +2,22 @@
 
 ---
 
-## Data Analysis 
+## Data Analysis / Machine Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Adult Income Prediction Machine Learning](https://J-Pitts.github.io)
+<img src="images/CorrelationMatrix.png?" width="450" height="400"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="450" height="400"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AdultIncomePrediction.ipynb)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
 
 ---
 ## Automation & Scripting
