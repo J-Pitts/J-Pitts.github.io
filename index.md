@@ -6,7 +6,7 @@
 
 [Data Preprocessing Improvement In Machine Learning Accuracy](https://J-Pitts.github.io)
 
-In this project, my goal was to see how data preprocessing could improve machine learning results. I plot a correlation matrix to check correlation issues, and ran my processed data through different machine learning models with a plotted confusion matrix for each.
+My goal was to see how data preprocessing could improve machine learning results. I plotted a correlation matrix to check correlation issues, and ran my processed data through different machine learning models with a plotted confusion matrix for each.
 
 <img src="images/CorrelationMatrix.png?" width="300" height="250"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="300" height="250"/>
 
@@ -16,18 +16,18 @@ In this project, my goal was to see how data preprocessing could improve machine
 
 [Titanic Dataset Machine Learning](https://J-Pitts.github.io)
 
-In this project, my goal was to plot variable distrubitions and attempt to tune visually, as well as highlight clear outliers with a Zscore anomaly plot
+This project was about plotting variable distrubitions and attempt to tune visually, as well as highlight clear outliers with a Zscore anomaly plot
 
 <img src="images/FareDistribution.png?" width="300" height="250"/> <img src="images/FareZScore.png?" width="300" height="250"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/seaborn-white?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#) [![](https://img.shields.io/badge/SciPy-white?logo=scipy)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/seaborn-white?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/SciPy-white?logo=scipy)](#)
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/TitanicML.ipynb)
 
 
 [Census Data API](https://J-Pitts.github.io)
 
-In this project, my goal was to scrape census data, specifically education statistics for the population, and my state.
+This project was more of interest/curiosity, my goal was to scrape census data, specifically education statistics for the population, and my state.
 
 As of 2015 census data:
 
