@@ -25,13 +25,21 @@ In this project, my goal was to plot variable distrubitions and attempt to tune 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/TitanicML.ipynb)
 
 
+[Census Data API](https://J-Pitts.github.io)
 
----
-[MySQL Database Setup & Queries](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project, my goal was to scrape census data, specifically education statistics for the population, and my state.
 
+As of 2015 census data:
 
+    Percent of population with a bachelors degree nationwide: 18.51%
 
+    Percent of population with a masters degree nationwide: 7.93%
+
+    Percent of population with a business bachelors degree nationwide: 6.11%
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/censusdata-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#)
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/CensusData.ipynb)
 
 ---
 ## Automation & Scripting
