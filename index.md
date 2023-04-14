@@ -33,7 +33,7 @@ This program saves 3 minutes per document. I wrapped it into a batch file to run
 
 ### Small Projects
 
-- [VIN Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb) - Checks VIN with NHTS.dot.gov for vehicle type - Used for calculating warranty surcharges or exclusions.
+- [VIN Check](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/VIN_Check.ipynb) - Checks VIN with NHTS.dot.gov for vehicle type 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tkinter-white?logo=Python)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?logo=Python)](#)
 
@@ -42,8 +42,9 @@ This program saves 3 minutes per document. I wrapped it into a batch file to run
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#)
 
 
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Crypto Prices](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/CryptoTracker.ipynb) - CoinGecko API pull for live crypto prices, and a 30 day market price chart
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/seaborn-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#)
 
 ---
 
