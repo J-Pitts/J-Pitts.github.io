@@ -10,7 +10,7 @@ In this project, my goal was to see how data preprocessing could improve machine
 
 <img src="images/CorrelationMatrix.png?" width="300" height="250"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="300" height="250"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/seaborn-white?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#)
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AdultIncomePrediction.ipynb)
 
@@ -20,7 +20,7 @@ In this project, my goal was to plot variable distrubitions and attempt to tune 
 
 <img src="images/FareDistribution.png?" width="300" height="250"/> <img src="images/FareZScore.png?" width="300" height="250"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-lightgrey?logo=NumPy)](#) [![](https://img.shields.io/badge/pandas-lightgrey?logo=pandas)](#) [![](https://img.shields.io/badge/seaborn-white?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/matplotlib-white?logo=Python)](#) [![](https://img.shields.io/badge/SciPy-white?logo=scipy)](#)
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/TitanicML.ipynb)
 
