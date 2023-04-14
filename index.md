@@ -4,8 +4,9 @@
 
 ## Data Analysis / Machine Learning
 
-[Adult Income Prediction Machine Learning](https://J-Pitts.github.io)
-Correlation Matrix And Logistric Regression Confusion Matrix
+[Data Preprocessing Improvement In Machine Learning Accuracy](https://J-Pitts.github.io)
+
+In this project, my goal was to see how data preprocessing could improve machine learning results. I plot a correlation matrix to check correlation issues, and ran my processed data through different machine learning models with a plotted confusion matrix for each.
 
 <img src="images/CorrelationMatrix.png?" width="300" height="250"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="300" height="250"/>
 
@@ -14,7 +15,9 @@ Correlation Matrix And Logistric Regression Confusion Matrix
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Pitts/J-Pitts.github.io/blob/master/AdultIncomePrediction.ipynb)
 
 [Titanic Dataset Machine Learning](https://J-Pitts.github.io)
-Distrubitions and Zscore tuning
+
+In this project, my goal was to plot variable distrubitions and attempt to tune visually, as well as highlight clear outliers with a Zscore anomaly plot
+
 <img src="images/FareDistribution.png?" width="300" height="250"/> <img src="images/FareZScore.png?" width="300" height="250"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pdfminer-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?logo=Selenium)](#)
