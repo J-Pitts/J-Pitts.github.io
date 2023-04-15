@@ -6,7 +6,7 @@
 
 [Data Preprocessing Improvement In Machine Learning Accuracy](https://J-Pitts.github.io)
 
-My goal was to see how data preprocessing could improve machine learning results. I plotted a correlation matrix to check correlation issues, and ran my processed data through different machine learning models with a plotted confusion matrix for each.
+My goal was to see how data preprocessing using OneHotEncoder and MinMaxScaler could improve machine learning results. I plotted a correlation matrix to check correlation issues, and ran my processed data through different machine learning models with a plotted confusion matrix for each.
 
 <img src="images/CorrelationMatrix.png?" width="300" height="250"/> <img src="images/LogisticRegressionConfusionMatrix.png?" width="300" height="250"/>
 
